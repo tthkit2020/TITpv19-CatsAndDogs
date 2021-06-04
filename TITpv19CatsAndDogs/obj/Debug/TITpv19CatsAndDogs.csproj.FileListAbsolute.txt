@@ -1,0 +1,9 @@
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\bin\Debug\TITpv19CatsAndDogs.exe.config
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\bin\Debug\TITpv19CatsAndDogs.exe
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\bin\Debug\TITpv19CatsAndDogs.pdb
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\obj\Debug\TITpv19CatsAndDogs.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\obj\Debug\TITpv19CatsAndDogs.Properties.Resources.resources
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\obj\Debug\TITpv19CatsAndDogs.csproj.GenerateResource.cache
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\obj\Debug\TITpv19CatsAndDogs.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\obj\Debug\TITpv19CatsAndDogs.exe
+C:\Users\julia.voronetskaja\source\repos\TITpv19CatsAndDogs\TITpv19CatsAndDogs\obj\Debug\TITpv19CatsAndDogs.pdb
